@@ -8,7 +8,6 @@ This project implements a complete image processing module to extract data from 
 * preprocessing module
 * classification modules
 
-
 ## Run
 #### Dependencies
 - python3
